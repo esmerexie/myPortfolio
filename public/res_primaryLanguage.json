@@ -18,7 +18,7 @@
           "images/portfolio/webArcade/webarcade.png",
           "images/portfolio/webArcade/wa2.png"
         ],
-        "url": "",
+        "url": "https://web-arcade-00.github.io/Web-Arcade/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -81,37 +81,28 @@
     ],
     "experience": [
       {
-        "company": "US Navy",
-        "title": "Lead Hydraulic Technician",
-        "years": "02.2016 - 02.2022",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "05.2022 - Present",
         "mainTech": [
           "Angular 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML",
+          "CSS",
+          "React"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Navy",
+        "title": "Lead Hydraulic Technician",
+        "years": "02.2016-02.2022",
         "mainTech": [
-          "Angular 7/8"
+          
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+
         ]
       }
     ]
