@@ -1,3 +1,3 @@
-# Modify this portfolio
+# This is a repository build of my portolio website!
 
-Make it your own! 
+Hello you can find the link to my website [here](https://rexiesportolio.netlify.app/)
